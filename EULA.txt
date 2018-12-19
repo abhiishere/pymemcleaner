@@ -1,7 +1,7 @@
           Terms Of Use and license agreement
-1.These set of programs are licensed directly under the common  FOSS licenses used for licensing the python and its modules in use.
+1.These set of programs are licensed directly under the common  FOSS license(BSD 3-clause) used for licensing the python and its modules in use.
 2.The Developer "cannot" be held "liable" for any set of problems arising from the use of these code in the program.
-3.These codes are provided without warranty and may or may not work on the system depending on the platform, hardware,       c compatibility, software and other factors.
+3.These codes are provided without "warranty" and may or may not work on the system depending on the platform, hardware,        compatibility, software and other factors.
 4.No Data of any kind is collected or stored in the servers for any sort of analysis as of now.
 5.These terms of use might change in future with or without notice of the developer to the end user.
 
