@@ -40,11 +40,11 @@ print("The total RAM memory available to system",round(totalmem),"MB")
 print("The total capacity of RAM installed",round(installedmem),"GB")
 # memory operation mode
 if platform=="linux":
-    mode={0:400,1:850,2:1750,3:2750,4:3800,6:5750,8:7750,16:15850}
+    mode={0:320,1:650,2:1760,3:2650,4:3650,6:5450,8:7450,16:15350}
     modechosen=mode[round(installedmem)]
     print("Target attack memory peak:",modechosen)
 else :
-    mode={0:300,1:650,2:1350,3:2450,4:3600,6:5550,8:7650,16:15650}
+    mode={0:300,1:650,2:1350,3:2350,4:3600,6:5450,8:7450,16:15350}
     modechosen=mode[round(installedmem)]
     print("Target attack memory peak:",modechosen)
 # main code for memory cleaner
